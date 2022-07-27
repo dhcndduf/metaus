@@ -6,8 +6,8 @@
 ***
 
 # 1. 페이징 처리
-![리스트](![의뢰목록페이지](https://user-images.githubusercontent.com/107232180/181196787-fd50784f-ae1f-477b-a748-d0510d43bb53.png)
-)   
+![리스트]![의뢰목록페이지](https://user-images.githubusercontent.com/107232180/181196959-6051c444-ce8a-4ce5-a42a-18238228c833.png)
+   
 
 - 일반회원중 포트폴리오가 등록된 회원만 노출
 - 매퍼 sql문   
