@@ -74,24 +74,9 @@
 
 
 ## 5. 관리자페이지
-### [1) 로그인 및 접속자 관련 주요 기능](https://github.com/KimJinoook/metaus/blob/main/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5%EC%84%A4%EB%AA%85/managerLogin.md)
-   - 1. 로그인 인터셉터
-   - 2. 총 방문자 수, 현재 접속자 수
-   - 3. 타 관리자 로그인 여부   
-
-### [2) 데이터의 처리](https://github.com/KimJinoook/metaus/blob/main/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5%EC%84%A4%EB%AA%85/managerData.md)
-   - 1. chart.js
-   - 2. sheet.js   
-
-### [3) 회원 관리, 게시판 관리](https://github.com/KimJinoook/metaus/blob/main/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5%EC%84%A4%EB%AA%85/managerManage.md)
-   - 1. 일반회원 차단 기능
-   - 2. 기업 회원 조회 (카카오 지도)
-   - 3. 메세지 전체 발송
-   - 4. 신고게시글 관리   
-   - 5. 상품관리 다중조건 검색   
-
-### [4) 메세지 기능](https://github.com/KimJinoook/metaus/blob/main/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5%EC%84%A4%EB%AA%85/managerMessage.md)   
-   - 1. 새로운 메세지 배지 알림
-   - 2. 메세지 작성 다중파일 업로드
+### [1) 주요 기능](https://github.com/dhcndduf/metaus/blob/main/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5%EC%84%A4%EB%AA%85/manager.md)
+   - 1. 관리자 등록,수정
+   - 2. 아이디 찾기,비밀번호 변경
+   - 3. 회원 
 
 
