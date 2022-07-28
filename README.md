@@ -68,7 +68,7 @@
    - 1. Three.js의 반복처리   
    - 2. ZipLoader를 이용 압축파일의 해제 없이 로딩   
 
-## [4. 상품판매 페이지](https://github.com/KimJinoook/metaus/blob/main/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5%EC%84%A4%EB%AA%85/pay.md)
+## [4. 상품판매 페이지](https://github.com/dhcndduf/metaus/blob/main/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5%EC%84%A4%EB%AA%85/pay.md)
    - 1. 결제 및 상품 구매 처리
    - 2. 구매 상품 파일 다운로드   
 
