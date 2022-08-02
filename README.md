@@ -77,6 +77,6 @@
 ### [1) 주요 기능](https://github.com/dhcndduf/metaus/blob/main/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5%EC%84%A4%EB%AA%85/manager.md)
    - 1. 관리자 등록,수정
    - 2. 아이디 찾기,비밀번호 변경
-   - 3. 회원 
+   - 3. 회원 조회
 
 
